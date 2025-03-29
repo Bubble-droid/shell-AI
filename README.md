@@ -122,15 +122,15 @@ Using Node.js to simply use Gemini in the terminal
 
     **top 命令:**
 
-    ```bash
+    \`\`\`bash
     top
-    ```
+    \`\`\`
 
     **htop 命令 (如果已安装):**
 
-    ```bash
+    \`\`\`bash
     htop
-    ```
+    \`\`\`
 
     这两个命令都会实时显示系统中各个进程的 CPU 使用率，以及系统总体的 CPU 使用情况。  `htop` 比 `top` 界面更友好，功能也更强大一些。
 
